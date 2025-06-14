@@ -1,4 +1,5 @@
-## Hi there 👋
+## Guilherme Giorgi Gonçalves 
+cursando engenharia mecânica na UTFPR, entusiasta de programação e eletrônica.
 
 <!--
 **Guilherme-Giorgi/Guilherme-Giorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
